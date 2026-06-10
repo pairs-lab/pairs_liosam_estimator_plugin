@@ -1,0 +1,5 @@
+<library path="lib/libPairsUavStateEstimators_Liosam">
+  <class name="liosam/LiosamEstimatorPlugin" type="liosam::Liosam" base_class_type="pairs_uav_managers::StateEstimator">
+    <description>Liosam state estimator</description>
+  </class>
+</library>
